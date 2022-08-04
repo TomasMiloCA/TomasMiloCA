@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomas Milo, PhD candidate at McGill University. Prior to beggining my doctoral studies, I was a professional accountant (CPA).
+- 👋 Hi, I’m Tomas Milo, a PhD candidate at McGill University. Prior to beggining my doctoral studies, I was a professional accountant (CPA).
 - 👀 I’m interested in democratizing financial information. I use Python and Machine Learning to make sense of accounting data.
 - 🌱 I’m currently researching how analysts and stakeholders use XBRL. 
 - 💞️ I’m looking to collaborate on topics related to accounting and finance, as well as programming in general.
